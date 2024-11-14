@@ -95,7 +95,7 @@ function PlayerData:GetKnownSpells()
     local spell = self.spellsByNameAndRank[spellNameKey]
 
     if (spell) then
-      Utils.log(name .. " (" .. rank .. ") - [" .. spell.id .. "]")
+      --Utils.log(name .. " (" .. rank .. ") - [" .. spell.id .. "]")
       tinsert(self.knownSpellIds, spell.id)
     end
 
