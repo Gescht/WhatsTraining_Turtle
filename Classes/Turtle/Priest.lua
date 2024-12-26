@@ -177,7 +177,6 @@ ClassSpellsByLevel["Priest"] = {
 		{id=10874,name="Mana Burn",subText="Rank 3",level=40,icon="Interface\\Icons\\Spell_Shadow_ManaBurn",school="Shadow Magic",requiredIds={8131}},
 		{id=8106,name="Mind Blast",subText="Rank 6",level=40,icon="Interface\\Icons\\Spell_Shadow_UnholyFrenzy",school="Shadow Magic",requiredIds={8105}},
 		{id=57701,name="Pain Spike",subText="Rank 2",level=40,icon="Interface\\Icons\\Spell_Shadow_PainSpike",school="Shadow Magic",requiredIds={45555}},
-		{id=10060,name="Power Infusion",subText="",level=40,icon="Interface\\Icons\\Spell_Holy_PowerInfusion",school="Discipline"},
 		{id=996,name="Prayer of Healing",subText="Rank 2",level=40,icon="Interface\\Icons\\Spell_Holy_PrayerOfHealing02",school="Holy",requiredIds={596}},
 		{id=45562,name="Proclaim Champion",subText="",level=40,icon="Interface\\Icons\\Spell_Holy_ProclaimChampion_02",school="Holy",requiredTalent={id=199,tabIndex=2}},
 		{id=9485,name="Shackle Undead",subText="Rank 2",level=40,icon="Interface\\Icons\\Spell_Nature_Slow",school="Discipline",requiredIds={9484}},
